@@ -1,0 +1,7 @@
+markdown: kramdown
+permalink: /:year/:month/:title/
+url: http://www.xukuang.github.io
+author: Xu Kuang
+safe: true
+paginate: 2
+auto: true
