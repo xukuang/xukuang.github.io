@@ -81,11 +81,11 @@
   color: white;
   padding: 0.5em;*/
   background: #666; /*#fbedeb;*/ 
-    color: #e2678f;
-    padding: 0 5px;
-    margin: 0 2px;
+    color: white;
+    padding: 0.5em;
+   /* margin: 0 2px;
     -webkit-border-radius: 3px;
-    border-radius: 3px;
+    border-radius: 3px;*/
 }
 
 .coffeescript .javascript,
