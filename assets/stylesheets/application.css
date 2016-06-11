@@ -45,7 +45,7 @@ a:hover {
 }
 
 #monogram {
-  margin: 50px auto 0 90px;
+  margin: 50px auto 0 87px;
 }
 #social {
   position: relative;
@@ -70,15 +70,16 @@ a:hover {
   color: #fff;
 }
 #talkbubble {
-   position:absolute;
-   top: 250px;
-   margin-left: 50px;
-   width: 300px;
-   height: 200px;
-   background-color: rgba(0,0,0,0.2);
-   -moz-border-radius:    10px;
-   -webkit-border-radius: 10px;
-   border-radius:         10px;
+	padding: 5px;
+    position:absolute;
+    top: 250px;
+    margin-left: 50px;
+    width: 300px;
+    height: 200px;
+    background-color: rgba(0,0,0,0.2);
+    -moz-border-radius:    10px;
+    -webkit-border-radius: 10px;
+    border-radius:         10px;
 }
 #talkbubble:before1 {
    content:"";
