@@ -77,13 +77,13 @@
 
 .hljs {
   display: block;
-  /*background: #002451;
+  background: #002451;
   color: white;
-  padding: 0.5em;*/
-  background: #666; /*#fbedeb;*/ 
+  padding: 0.5em;
+  /*background: #666; /*#fbedeb;
     color: white;
     padding: 0.5em;
-   /* margin: 0 2px;
+    margin: 0 2px;
     -webkit-border-radius: 3px;
     border-radius: 3px;*/
 }
